@@ -4,7 +4,7 @@
 ### Full-Stack Developer & Advanced Diploma in ICT Candidate 💻
 *Sol Plaatje University, Kimberley, South Africa*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ofentse-batlang-1a8330277)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=react)](https://github.com/ofentsebatlat/Portfolio-Website)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:ofentsebatlang@gmail.com)
 
