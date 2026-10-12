@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 - 🎓 Completing an **Advanced Diploma in Information & Communication Technology** at **Sol Plaatje University**.
 - 💡 Passionate about building fintech integrations, cloud applications, and full-stack web solutions.
-- 🛠️ Currently focusing on **TypeScript, React, Python, and Firebase**.
+- 🛠️ Currently focusing on **Java, React, Python, Django, and Firebase**.
 - 🚀 Open to collaborating on innovative web apps, fintech tools, and full-stack projects.
 
 ---
